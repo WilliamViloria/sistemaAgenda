@@ -105,7 +105,9 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(167, 17);
             this.label2.TabIndex = 7;
-            this.label2.Text = "APELLIDO PATERNO";
+            this.label2.Text = "1ER APELLIDO  ";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // txtapellidom
             // 
@@ -127,7 +129,8 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(172, 17);
             this.label4.TabIndex = 9;
-            this.label4.Text = "APELLIDO MATERNO";
+            this.label4.Text = "2DO APELLIDO  ";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // txtcel
             // 
