@@ -10,7 +10,7 @@ namespace sistemaClientes
 {
     class BasedeDatos
     {
-        SqlConnection conexion = new SqlConnection("server=(local);initial catalog=SISTEMA;integrated security=true");
+        SqlConnection conexion = new SqlConnection(@"server=DESKTOP-VR8BFIC\SQLEXPRESS01;initial catalog=SISTEMA;integrated security=true");
 
         public void enviar(String consulta)
         {
