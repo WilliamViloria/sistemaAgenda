@@ -55,13 +55,13 @@
             // label1
             // 
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Open Sans", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(12, 20);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(220, 18);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Insertar Empleado > Nuevo Empleado";
+            this.label1.Text = "Insertar Contacto > Nuevo Contacto";
             // 
             // label3
             // 
@@ -78,22 +78,22 @@
             // 
             this.txtnombres.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(55)))), ((int)(((byte)(60)))), ((int)(((byte)(67)))));
             this.txtnombres.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtnombres.Font = new System.Drawing.Font("Open Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtnombres.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtnombres.ForeColor = System.Drawing.SystemColors.Info;
             this.txtnombres.Location = new System.Drawing.Point(235, 163);
             this.txtnombres.Name = "txtnombres";
-            this.txtnombres.Size = new System.Drawing.Size(232, 22);
+            this.txtnombres.Size = new System.Drawing.Size(232, 19);
             this.txtnombres.TabIndex = 6;
             // 
             // txtapellidop
             // 
             this.txtapellidop.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(55)))), ((int)(((byte)(60)))), ((int)(((byte)(67)))));
             this.txtapellidop.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtapellidop.Font = new System.Drawing.Font("Open Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtapellidop.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtapellidop.ForeColor = System.Drawing.SystemColors.Info;
             this.txtapellidop.Location = new System.Drawing.Point(235, 203);
             this.txtapellidop.Name = "txtapellidop";
-            this.txtapellidop.Size = new System.Drawing.Size(232, 22);
+            this.txtapellidop.Size = new System.Drawing.Size(232, 19);
             this.txtapellidop.TabIndex = 8;
             // 
             // label2
@@ -111,11 +111,11 @@
             // 
             this.txtapellidom.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(55)))), ((int)(((byte)(60)))), ((int)(((byte)(67)))));
             this.txtapellidom.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtapellidom.Font = new System.Drawing.Font("Open Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtapellidom.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtapellidom.ForeColor = System.Drawing.SystemColors.Info;
             this.txtapellidom.Location = new System.Drawing.Point(235, 244);
             this.txtapellidom.Name = "txtapellidom";
-            this.txtapellidom.Size = new System.Drawing.Size(232, 22);
+            this.txtapellidom.Size = new System.Drawing.Size(232, 19);
             this.txtapellidom.TabIndex = 10;
             // 
             // label4
@@ -133,11 +133,11 @@
             // 
             this.txtcel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(55)))), ((int)(((byte)(60)))), ((int)(((byte)(67)))));
             this.txtcel.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtcel.Font = new System.Drawing.Font("Open Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtcel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtcel.ForeColor = System.Drawing.SystemColors.Info;
             this.txtcel.Location = new System.Drawing.Point(234, 287);
             this.txtcel.Name = "txtcel";
-            this.txtcel.Size = new System.Drawing.Size(232, 22);
+            this.txtcel.Size = new System.Drawing.Size(232, 19);
             this.txtcel.TabIndex = 12;
             // 
             // label5
@@ -154,13 +154,13 @@
             // label6
             // 
             this.label6.BackColor = System.Drawing.Color.Transparent;
-            this.label6.Font = new System.Drawing.Font("Open Sans", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(10, 55);
+            this.label6.Location = new System.Drawing.Point(19, 55);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(167, 34);
             this.label6.TabIndex = 13;
-            this.label6.Text = "Nuevo Empleado";
+            this.label6.Text = "Nuevo Contacto";
             // 
             // button1
             // 
@@ -195,11 +195,11 @@
             // 
             this.txtci.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(55)))), ((int)(((byte)(60)))), ((int)(((byte)(67)))));
             this.txtci.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtci.Font = new System.Drawing.Font("Open Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtci.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtci.ForeColor = System.Drawing.SystemColors.Info;
             this.txtci.Location = new System.Drawing.Point(234, 119);
             this.txtci.Name = "txtci";
-            this.txtci.Size = new System.Drawing.Size(232, 22);
+            this.txtci.Size = new System.Drawing.Size(232, 19);
             this.txtci.TabIndex = 17;
             // 
             // label7
@@ -207,18 +207,19 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(146, 123);
+            this.label7.Location = new System.Drawing.Point(131, 121);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(30, 17);
+            this.label7.Size = new System.Drawing.Size(70, 17);
             this.label7.TabIndex = 16;
-            this.label7.Text = "CI";
+            this.label7.Text = "Edad";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // lbagregado
             // 
             this.lbagregado.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
             this.lbagregado.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(160)))), ((int)(((byte)(83)))));
             this.lbagregado.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.lbagregado.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbagregado.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbagregado.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.lbagregado.Location = new System.Drawing.Point(-4, 357);
             this.lbagregado.Name = "lbagregado";
@@ -248,7 +249,7 @@
             this.lberror.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
             this.lberror.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(209)))), ((int)(((byte)(71)))), ((int)(((byte)(56)))));
             this.lberror.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.lberror.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lberror.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lberror.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.lberror.Location = new System.Drawing.Point(-8, 357);
             this.lberror.Name = "lberror";

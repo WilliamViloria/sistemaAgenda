@@ -109,5 +109,15 @@ namespace sistemaClientes
                 lbtimer2.Text = "0";
             }
         }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
