@@ -212,11 +212,11 @@ namespace sistemaClientes
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(131, 121);
+            this.label7.Location = new System.Drawing.Point(144, 121);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(70, 17);
             this.label7.TabIndex = 16;
-            this.label7.Text = "Edad";
+            this.label7.Text = "CI";
             this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // lbagregado
